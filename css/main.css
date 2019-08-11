@@ -10,12 +10,8 @@ article {
     margin: 0 auto;
 }
 
-h1 {
-
-}
-
 img {
-    width: 100%;
+    max-width: 100%;
 }
 
 footer {
