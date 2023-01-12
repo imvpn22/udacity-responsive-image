@@ -19,6 +19,6 @@
     "nodemon": "^1.19.1"
   },
   "dependencies": {
-    "grunt-responsive-images": "^0.1.6"
+    "grunt-responsive-images": "^1.10.1"
   }
 }
